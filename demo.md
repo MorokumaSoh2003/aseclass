@@ -4,7 +4,7 @@
 
 - 研究概要
 - CUDAのコード例
-- GPUの画像
+- GPUの写真
 
 ## 研究概要
 
@@ -21,6 +21,6 @@ __global__ void MatAdd(float *A, float *B, float *C, int N) {
 }
 ```
 
-## GPUの画像
+## GPUの写真
 
 ![](https://th.bing.com/th/id/OIP.T8uv_XQXkd2K4QWcct_pMgHaEj?w=289&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3)
